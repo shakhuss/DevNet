@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://shak123:shakhuss123@devconnect-dk6hi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "c4a14845af79e5792f17ac6684483d969e64c518"
+}
